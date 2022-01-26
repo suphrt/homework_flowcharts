@@ -5,6 +5,7 @@ while x >= 0:
         y = x * x
         break
     y = x - 1
-y = x
+else:
+    y = x
 print(y)
 
