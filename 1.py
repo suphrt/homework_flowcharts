@@ -4,8 +4,8 @@ while x >= 0:
     if x > y:
         y = x * x
         break
-    y = x - 1
-else:
+    else:
+        y = x - 1
     y = x
 print(y)
 
